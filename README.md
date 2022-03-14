@@ -1,2 +1,2 @@
 # Pseudo-codigo
-Desarrollado en PSe Int, practicando pseudo-codigo. Logica de programacion.
+Para adquirir el software ingrese al siguiente link https://pseint.uptodown.com/windows/descargar/2251104
